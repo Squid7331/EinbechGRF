@@ -1,7 +1,7 @@
-# RudusGRF
+# EinbechGRF
 Blue map + Abyssman & Jewel magnified to improve Einbech farming on NovaRO.
 
-![Screenshot](https://i.ibb.co/FHnfGrx/rudus.jpg) 
+![Screenshot](https://i.ibb.co/mGdpzWX/einbech.jpg) 
 
 ## How to do it working ?
 - Open the **DATA.ini** file in the root of your NovaRO folder.
