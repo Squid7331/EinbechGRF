@@ -1,5 +1,5 @@
 # RudusGRF
-Gray map + Abyssman & Jewel magnified to improve Einbech farming on NovaRO.
+Blue map + Abyssman & Jewel magnified to improve Einbech farming on NovaRO.
 
 ![Screenshot](https://i.ibb.co/FHnfGrx/rudus.jpg) 
 
